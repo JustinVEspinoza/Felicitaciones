@@ -1,0 +1,571 @@
+@keyframes typed {
+	/* string #{
+		$i
+	}
+	, char #{
+		$j
+	}
+	 */
+	/* string #{
+		$i
+	}
+	, char #{
+		$j
+	}
+	 */
+	/* string #{
+		$i
+	}
+	, char #{
+		$j
+	}
+	 */
+	 0%, 0.4135936982% {
+		 content: "�";
+	}
+	 0.4145936982%, 0.8281873964% {
+		 content: "¡";
+	}
+	 0.8291873964%, 1.2427810945% {
+		 content: "¡O";
+	}
+	 1.2437810945%, 1.6573747927% {
+		 content: "¡Oh";
+	}
+	 1.6583747927%, 2.0719684909% {
+		 content: "¡Oh!";
+	}
+	 2.0729684909%, 2.4865621891% {
+		 content: "¡Oh! ";
+	}
+	 2.4875621891%, 2.9011558872% {
+		 content: "¡Oh! E";
+	}
+	 2.9021558872%, 3.3157495854% {
+		 content: "¡Oh! Es";
+	}
+	 3.3167495854%, 3.7303432836% {
+		 content: "¡Oh! Es ";
+	}
+	 3.7313432836%, 4.1449369818% {
+		 content: "¡Oh! Es F";
+	}
+	 4.1459369818%, 4.5595306799% {
+		 content: "¡Oh! Es Fi";
+	}
+	 4.5605306799%, 4.9741243781% {
+		 content: "¡Oh! Es Fin";
+	}
+	 4.9751243781%, 5.3887180763% {
+		 content: "¡Oh! Es Fina";
+	}
+	 5.3897180763%, 5.8033117745% {
+		 content: "¡Oh! Es Final";
+	}
+	 5.8043117745%, 6.2179054726% {
+		 content: "¡Oh! Es Final ";
+	}
+	 6.2189054726%, 6.6324991708% {
+		 content: "¡Oh! Es Final D";
+	}
+	 6.6334991708%, 7.047092869% {
+		 content: "¡Oh! Es Final De";
+	}
+	 7.048092869%, 7.4616865672% {
+		 content: "¡Oh! Es Final De ";
+	}
+	 7.4626865672%, 7.8762802653% {
+		 content: "¡Oh! Es Final De A";
+	}
+	 7.8772802653%, 8.2908739635% {
+		 content: "¡Oh! Es Final De A�";
+	}
+	 8.2918739635%, 8.7054676617% {
+		 content: "¡Oh! Es Final De Añ";
+	}
+	 8.7064676617%, 17.7436102819% {
+		 content: "¡Oh! Es Final De Año";
+	}
+	 17.7446102819%, 18.0752852405% {
+		 content: "¡Oh! Es Final De Añ";
+	}
+	 18.0762852405%, 18.406960199% {
+		 content: "¡Oh! Es Final De A�";
+	}
+	 18.407960199%, 18.7386351575% {
+		 content: "¡Oh! Es Final De A";
+	}
+	 18.7396351575%, 19.0703101161% {
+		 content: "¡Oh! Es Final De ";
+	}
+	 19.0713101161%, 19.4019850746% {
+		 content: "¡Oh! Es Final De";
+	}
+	 19.4029850746%, 19.7336600332% {
+		 content: "¡Oh! Es Final D";
+	}
+	 19.7346600332%, 20.0653349917% {
+		 content: "¡Oh! Es Final ";
+	}
+	 20.0663349917%, 20.3970099502% {
+		 content: "¡Oh! Es Final";
+	}
+	 20.3980099502%, 20.7286849088% {
+		 content: "¡Oh! Es Fina";
+	}
+	 20.7296849088%, 21.0603598673% {
+		 content: "¡Oh! Es Fin";
+	}
+	 21.0613598673%, 21.3920348259% {
+		 content: "¡Oh! Es Fi";
+	}
+	 21.3930348259%, 21.7237097844% {
+		 content: "¡Oh! Es F";
+	}
+	 21.7247097844%, 22.055384743% {
+		 content: "¡Oh! Es ";
+	}
+	 22.056384743%, 22.3870597015% {
+		 content: "¡Oh! Es";
+	}
+	 22.3880597015%, 22.71873466% {
+		 content: "¡Oh! E";
+	}
+	 22.71973466%, 23.0504096186% {
+		 content: "¡Oh! ";
+	}
+	 23.0514096186%, 23.3820845771% {
+		 content: "¡Oh!";
+	}
+	 23.3830845771%, 23.7137595357% {
+		 content: "¡Oh";
+	}
+	 23.7147595357%, 24.0454344942% {
+		 content: "¡O";
+	}
+	 24.0464344942%, 24.3771094527% {
+		 content: "¡";
+	}
+	 24.3781094527%, 24.7087844113% {
+		 content: "�";
+	}
+	 24.7097844113%, 28.854721393% {
+		 content: "​";
+	}
+	 28.855721393%, 29.2693150912% {
+		 content: "�";
+	}
+	 29.2703150912%, 29.6839087894% {
+		 content: "¡";
+	}
+	 29.6849087894%, 30.0985024876% {
+		 content: "¡E";
+	}
+	 30.0995024876%, 30.5130961857% {
+		 content: "¡Es";
+	}
+	 30.5140961857%, 30.9276898839% {
+		 content: "¡Est";
+	}
+	 30.9286898839%, 31.3422835821% {
+		 content: "¡Esto";
+	}
+	 31.3432835821%, 31.7568772803% {
+		 content: "¡Esto ";
+	}
+	 31.7578772803%, 32.1714709784% {
+		 content: "¡Esto e";
+	}
+	 32.1724709784%, 32.5860646766% {
+		 content: "¡Esto es";
+	}
+	 32.5870646766%, 33.0006583748% {
+		 content: "¡Esto es ";
+	}
+	 33.0016583748%, 33.415252073% {
+		 content: "¡Esto es s";
+	}
+	 33.416252073%, 33.8298457711% {
+		 content: "¡Esto es so";
+	}
+	 33.8308457711%, 34.2444394693% {
+		 content: "¡Esto es sor";
+	}
+	 34.2454394693%, 34.6590331675% {
+		 content: "¡Esto es sorp";
+	}
+	 34.6600331675%, 35.0736268657% {
+		 content: "¡Esto es sorpr";
+	}
+	 35.0746268657%, 35.4882205638% {
+		 content: "¡Esto es sorpre";
+	}
+	 35.4892205638%, 35.902814262% {
+		 content: "¡Esto es sorpren";
+	}
+	 35.903814262%, 36.3174079602% {
+		 content: "¡Esto es sorprend";
+	}
+	 36.3184079602%, 36.7320016584% {
+		 content: "¡Esto es sorprende";
+	}
+	 36.7330016584%, 37.1465953566% {
+		 content: "¡Esto es sorprenden";
+	}
+	 37.1475953566%, 37.5611890547% {
+		 content: "¡Esto es sorprendent";
+	}
+	 37.5621890547%, 37.9757827529% {
+		 content: "¡Esto es sorprendente";
+	}
+	 37.9767827529%, 38.3903764511% {
+		 content: "¡Esto es sorprendente ";
+	}
+	 38.3913764511%, 38.8049701493% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 38.8059701493%, 39.2195638474% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 39.2205638474%, 39.6341575456% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 39.6351575456%, 40.0487512438% {
+		 content: "¡Esto es sorprendente 😱";
+	}
+	 40.0497512438%, 49.086893864% {
+		 content: "¡Esto es sorprendente 😱!";
+	}
+	 49.087893864%, 49.4185688226% {
+		 content: "¡Esto es sorprendente 😱";
+	}
+	 49.4195688226%, 49.7502437811% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 49.7512437811%, 50.0819187396% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 50.0829187396%, 50.4135936982% {
+		 content: "¡Esto es sorprendente �";
+	}
+	 50.4145936982%, 50.7452686567% {
+		 content: "¡Esto es sorprendente ";
+	}
+	 50.7462686567%, 51.0769436153% {
+		 content: "¡Esto es sorprendente";
+	}
+	 51.0779436153%, 51.4086185738% {
+		 content: "¡Esto es sorprendent";
+	}
+	 51.4096185738%, 51.7402935323% {
+		 content: "¡Esto es sorprenden";
+	}
+	 51.7412935323%, 52.0719684909% {
+		 content: "¡Esto es sorprende";
+	}
+	 52.0729684909%, 52.4036434494% {
+		 content: "¡Esto es sorprend";
+	}
+	 52.4046434494%, 52.735318408% {
+		 content: "¡Esto es sorpren";
+	}
+	 52.736318408%, 53.0669933665% {
+		 content: "¡Esto es sorpre";
+	}
+	 53.0679933665%, 53.398668325% {
+		 content: "¡Esto es sorpr";
+	}
+	 53.399668325%, 53.7303432836% {
+		 content: "¡Esto es sorp";
+	}
+	 53.7313432836%, 54.0620182421% {
+		 content: "¡Esto es sor";
+	}
+	 54.0630182421%, 54.3936932007% {
+		 content: "¡Esto es so";
+	}
+	 54.3946932007%, 54.7253681592% {
+		 content: "¡Esto es s";
+	}
+	 54.7263681592%, 55.0570431177% {
+		 content: "¡Esto es ";
+	}
+	 55.0580431177%, 55.3887180763% {
+		 content: "¡Esto es";
+	}
+	 55.3897180763%, 55.7203930348% {
+		 content: "¡Esto e";
+	}
+	 55.7213930348%, 56.0520679934% {
+		 content: "¡Esto ";
+	}
+	 56.0530679934%, 56.3837429519% {
+		 content: "¡Esto";
+	}
+	 56.3847429519%, 56.7154179104% {
+		 content: "¡Est";
+	}
+	 56.7164179104%, 57.047092869% {
+		 content: "¡Es";
+	}
+	 57.048092869%, 57.3787678275% {
+		 content: "¡E";
+	}
+	 57.3797678275%, 57.7104427861% {
+		 content: "¡";
+	}
+	 57.7114427861%, 58.0421177446% {
+		 content: "�";
+	}
+	 58.0431177446%, 62.1880547264% {
+		 content: "​";
+	}
+	 62.1890547264%, 62.6026484245% {
+		 content: "D";
+	}
+	 62.6036484245%, 63.0172421227% {
+		 content: "Di";
+	}
+	 63.0182421227%, 63.4318358209% {
+		 content: "Dis";
+	}
+	 63.4328358209%, 63.8464295191% {
+		 content: "Disf";
+	}
+	 63.8474295191%, 64.2610232172% {
+		 content: "Disfr";
+	}
+	 64.2620232172%, 64.6756169154% {
+		 content: "Disfru";
+	}
+	 64.6766169154%, 65.0902106136% {
+		 content: "Disfrut";
+	}
+	 65.0912106136%, 65.5048043118% {
+		 content: "Disfruta";
+	}
+	 65.5058043118%, 65.91939801% {
+		 content: "Disfruta ";
+	}
+	 65.92039801%, 66.3339917081% {
+		 content: "Disfruta d";
+	}
+	 66.3349917081%, 66.7485854063% {
+		 content: "Disfruta de";
+	}
+	 66.7495854063%, 67.1631791045% {
+		 content: "Disfruta de ";
+	}
+	 67.1641791045%, 67.5777728027% {
+		 content: "Disfruta de e";
+	}
+	 67.5787728027%, 67.9923665008% {
+		 content: "Disfruta de es";
+	}
+	 67.9933665008%, 68.406960199% {
+		 content: "Disfruta de est";
+	}
+	 68.407960199%, 68.8215538972% {
+		 content: "Disfruta de esta";
+	}
+	 68.8225538972%, 69.2361475954% {
+		 content: "Disfruta de esta ";
+	}
+	 69.2371475954%, 69.6507412935% {
+		 content: "Disfruta de esta p";
+	}
+	 69.6517412935%, 70.0653349917% {
+		 content: "Disfruta de esta pr";
+	}
+	 70.0663349917%, 70.4799286899% {
+		 content: "Disfruta de esta pre";
+	}
+	 70.4809286899%, 70.8945223881% {
+		 content: "Disfruta de esta pres";
+	}
+	 70.8955223881%, 71.3091160862% {
+		 content: "Disfruta de esta prese";
+	}
+	 71.3101160862%, 71.7237097844% {
+		 content: "Disfruta de esta presen";
+	}
+	 71.7247097844%, 72.1383034826% {
+		 content: "Disfruta de esta present";
+	}
+	 72.1393034826%, 72.5528971808% {
+		 content: "Disfruta de esta presenta";
+	}
+	 72.5538971808%, 72.9674908789% {
+		 content: "Disfruta de esta presentac";
+	}
+	 72.9684908789%, 73.3820845771% {
+		 content: "Disfruta de esta presentaci";
+	}
+	 73.3830845771%, 73.7966782753% {
+		 content: "Disfruta de esta presentaci�";
+	}
+	 73.7976782753%, 74.2112719735% {
+		 content: "Disfruta de esta presentació";
+	}
+	 74.2122719735%, 74.6258656716% {
+		 content: "Disfruta de esta presentación";
+	}
+	 74.6268656716%, 75.0404593698% {
+		 content: "Disfruta de esta presentación ";
+	}
+	 75.0414593698%, 75.455053068% {
+		 content: "Disfruta de esta presentación �";
+	}
+	 75.456053068%, 75.8696467662% {
+		 content: "Disfruta de esta presentación �";
+	}
+	 75.8706467662%, 84.9077893864% {
+		 content: "Disfruta de esta presentación ☕";
+	}
+	 84.9087893864%, 85.2394643449% {
+		 content: "Disfruta de esta presentación �";
+	}
+	 85.2404643449%, 85.5711393035% {
+		 content: "Disfruta de esta presentación �";
+	}
+	 85.5721393035%, 85.902814262% {
+		 content: "Disfruta de esta presentación ";
+	}
+	 85.903814262%, 86.2344892206% {
+		 content: "Disfruta de esta presentación";
+	}
+	 86.2354892206%, 86.5661641791% {
+		 content: "Disfruta de esta presentació";
+	}
+	 86.5671641791%, 86.8978391376% {
+		 content: "Disfruta de esta presentaci�";
+	}
+	 86.8988391376%, 87.2295140962% {
+		 content: "Disfruta de esta presentaci";
+	}
+	 87.2305140962%, 87.5611890547% {
+		 content: "Disfruta de esta presentac";
+	}
+	 87.5621890547%, 87.8928640133% {
+		 content: "Disfruta de esta presenta";
+	}
+	 87.8938640133%, 88.2245389718% {
+		 content: "Disfruta de esta present";
+	}
+	 88.2255389718%, 88.5562139303% {
+		 content: "Disfruta de esta presen";
+	}
+	 88.5572139303%, 88.8878888889% {
+		 content: "Disfruta de esta prese";
+	}
+	 88.8888888889%, 89.2195638474% {
+		 content: "Disfruta de esta pres";
+	}
+	 89.2205638474%, 89.551238806% {
+		 content: "Disfruta de esta pre";
+	}
+	 89.552238806%, 89.8829137645% {
+		 content: "Disfruta de esta pr";
+	}
+	 89.8839137645%, 90.2145887231% {
+		 content: "Disfruta de esta p";
+	}
+	 90.2155887231%, 90.5462636816% {
+		 content: "Disfruta de esta ";
+	}
+	 90.5472636816%, 90.8779386401% {
+		 content: "Disfruta de esta";
+	}
+	 90.8789386401%, 91.2096135987% {
+		 content: "Disfruta de est";
+	}
+	 91.2106135987%, 91.5412885572% {
+		 content: "Disfruta de es";
+	}
+	 91.5422885572%, 91.8729635158% {
+		 content: "Disfruta de e";
+	}
+	 91.8739635158%, 92.2046384743% {
+		 content: "Disfruta de ";
+	}
+	 92.2056384743%, 92.5363134328% {
+		 content: "Disfruta de";
+	}
+	 92.5373134328%, 92.8679883914% {
+		 content: "Disfruta d";
+	}
+	 92.8689883914%, 93.1996633499% {
+		 content: "Disfruta ";
+	}
+	 93.2006633499%, 93.5313383085% {
+		 content: "Disfruta";
+	}
+	 93.5323383085%, 93.863013267% {
+		 content: "Disfrut";
+	}
+	 93.864013267%, 94.1946882255% {
+		 content: "Disfru";
+	}
+	 94.1956882255%, 94.5263631841% {
+		 content: "Disfr";
+	}
+	 94.5273631841%, 94.8580381426% {
+		 content: "Disf";
+	}
+	 94.8590381426%, 95.1897131012% {
+		 content: "Dis";
+	}
+	 95.1907131012%, 95.5213880597% {
+		 content: "Di";
+	}
+	 95.5223880597%, 95.8530630182% {
+		 content: "D";
+	}
+	 95.8540630182%, 100% {
+		 content: "​";
+	}
+}
+ @keyframes beam-blink {
+	 75% {
+		 border-color: transparent;
+	}
+}
+ * {
+	 backface-visibility: hidden;
+}
+ html, body {
+	 height: 100%;
+}
+ body {
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+	 background-color: #000;
+	 background-image: radial-gradient(rgba(255, 255, 255, 0.125), rgba(255, 255, 255, 0)), linear-gradient(to bottom, #000, #000 2px, #111 3px);
+	 background-repeat: repeat-y;
+	 background-position: center center;
+	 background-size: cover, 100% 3px;
+	 font-size: calc(10px + 2vw);
+	 font-family: 'VT323', monospace, sans-serif;
+	 color: #3f3;
+	 -webkit-font-smoothing: antialiased;
+	 -moz-osx-font-smoothing: grayscale;
+}
+ body::after {
+	 content: "​";
+	 position: relative;
+	 top: -13px;
+	 display: inline-block;
+	 padding-right: 3px;
+	 padding-right: calc(3px + 0.1vw);
+	 border-right: 10px solid rgba(51, 255, 51, 0.75);
+	 border-right: calc(1.1vw + 4px) solid rgba(51, 255, 51, 0.75);
+	 text-shadow: 0 0 5px rgba(51, 255, 51, 0.75);
+	 white-space: nowrap;
+	 animation: typed 24.12s linear 1s infinite, beam-blink 1s infinite;
+}
+ @media (max-width: 575px) {
+	 body::after {
+		 top: -33px;
+	}
+}
